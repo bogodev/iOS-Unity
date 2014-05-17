@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CelestialBody.cs">
+    <Files>
+      <File FileName="Assets/Scripts/General/CelestialType.cs" Line="30" Column="71" />
+      <File FileName="Assets/Scripts/Utils/Helpers.cs" Line="33" Column="3" />
+      <File FileName="Assets/Scripts/SpaceManager.cs" Line="47" Column="93" />
+      <File FileName="Assets/Scripts/Radar.cs" Line="42" Column="51" />
+      <File FileName="Assets/Scripts/Services/LocalData.cs" Line="18" Column="53" />
+      <File FileName="Assets/Scripts/CelestialBody.cs" Line="57" Column="47" />
+      <File FileName="Assets/Data/MinJSON.cs" Line="738" Column="11" />
+      <File FileName="Assets/Data/Resources/data.txt" Line="469" Column="20" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
